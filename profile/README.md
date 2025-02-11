@@ -69,7 +69,8 @@
     - 환경변수
   
 ### 🔸 🐙 .github  
-- 깃허브 Organization
+- 본 README를 등록하기 위함
+      - 깃허브 Organization 홈화면 README
 
 <br><br><br>
 
